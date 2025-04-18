@@ -1,3 +1,9 @@
+### 오류4
+NO data feed for 60 seconds Restarting MDS
+
+원인: 거래소에서 데이타를 수진하지 못한 오류
+해결: 인터넷 또는 거래소 연결을 확인합니다.
+
 ### 오류3
 Auth error: 인증 서버 접속 오류
 2025/04/18 12:29:28 조회결과: <html>
