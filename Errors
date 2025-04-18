@@ -1,3 +1,19 @@
+### 오류3
+Auth error: 인증 서버 접속 오류
+2025/04/18 12:29:28 조회결과: <html>
+  <head>
+    <title>Internal Server Error</title>
+  </head>
+  <body>
+    <h1><p>Internal Server Error</p></h1>
+    
+  </body>
+</html>
+2025/04/18 12:29:28 JSON 파싱 실패: invalid character '<' looking for beginning of value
+
+원인: 봇 시작시 인증하는 과정에서 인증 서버에 접속하지 못한 오류입니다
+해결책: 한두번 다시 하시면 됩니다
+
 ### 오류1
 panic: http status code:401, desc:{"msg":"Timestamp request expired","code":"50102"}
 
