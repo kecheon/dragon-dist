@@ -1,1 +1,2 @@
+20250727 add adxindicator.upperbound // reject entry if adx value is greater than this 
 20250721 entry control with DMI
