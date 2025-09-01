@@ -27,8 +27,8 @@ OKX거래소의 USDT 선물 매매를 위한 자동매매프로그램입니다.
 ✅ **높은 확장성** – 다양한 코인 페어 및 거래소에서 활용 가능  
 
 ### 설치시 준비물
-1. OKX 계좌(회원가입 및 USDT를 입금)
-2. OKX API key, secret key, passphrase
+1. 거래소 계좌(회원가입 및 USDT를 입금): OKX, BINANCE, BITGET
+2. 거래소 API key, secret key, passphrase
 3. 갑진드래곤봇 제품등록번호 발급[텔레그램 단톡방](https://t.me/+Yq7DfcMq_341YzE1)
 4. 텔레그램봇 토큰 및 Chat ID
 
